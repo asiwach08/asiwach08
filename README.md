@@ -11,5 +11,7 @@ I am currently working as a Data Science Intern at  [**Flip Robo Technologies**]
 
 **Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods.
 
-### How to reach me 📱 :Linkedin
-(https://www.linkedin.com/in/aseem-siwach-95b928169/)
+### How to reach me 📱 :
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](https://www.linkedin.com/in/aseem-siwach-95b928169/)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png">](https://github.com/asiwach08) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/facebook.png">](https://www.facebook.com/asim.siwach) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png">](https://www.instagram.com/aseem_siwach/)
+
+
