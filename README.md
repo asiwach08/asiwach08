@@ -1,16 +1,15 @@
 ### Hi there 👋
+I am currently working as a Data Science Intern at  [**Flip Robo Technologies**](http://www.fliprobo.com/). I come with an  experience of working with different technologies including Data Science, Machine Learning and Natural Language Preprocessing and Deep Learning.
 
-<!--
-**asiwach08/asiwach08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Things I'm good at :fire:
 
-Here are some ideas to get you started:
+**Domain:** Natural Language Processing, Image Processing, Machine Learning, Deep Learning, Data Science, Data Wrangling, Data Visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:**  Python, SQL, HTML.
+
+**Libraries & Tools:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib,  Keras, NLTK,  Seaborn, Selenium, BeautifulSoup.
+
+**Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods.
+
+### How to reach me 📱 :Linkedin
+(https://www.linkedin.com/in/aseem-siwach-95b928169/)
