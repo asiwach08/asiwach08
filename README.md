@@ -8,7 +8,7 @@ I specialize in turning complex data and unstructured documents into **productio
 📍 India · 🌍 Open to Freelance & Remote Work
 
 ---
-🚀 What I Do
+### 🚀 What I Do
 
 Build LLM-powered chatbots & copilots
 
@@ -17,6 +17,7 @@ Design RAG systems over PDFs, emails & databases
 Automate document, finance & workflow intelligence
 
 Deploy end-to-end GenAI backends on cloud
+
 ---
 
 ## 🔥 What I’m Good At
@@ -73,19 +74,7 @@ Deploy end-to-end GenAI backends on cloud
 
 📫 **Let’s connect:**
 [LinkedIn](#) • Email: **[siwach.asim7@gmail.com](mailto:siwach.asim7@gmail.com)**
-
----
-
-If you want, I can also:
-
-* ✨ Make this **more minimal**
-* 🧩 Convert it into a **GitHub stats + badges version**
-* 📌 Align it for **freelancing / product-based positioning**
-* 🎯 Optimize it for **GenAI / LLM Engineer roles**
-
-Just tell me 👍
-
-### How to reach me 📱 :
+[Facebook](#) • Email:
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](https://www.linkedin.com/in/aseem-siwach-95b928169/)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png">](https://github.com/asiwach08) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/facebook.png">](https://www.facebook.com/asim.siwach) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png">](https://www.instagram.com/aseem_siwach/)
 
 
