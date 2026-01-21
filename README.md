@@ -84,6 +84,6 @@ I specialize in turning complex data and unstructured documents into **productio
 
 
 
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](https://www.linkedin.com/in/ahseem-siwach)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png">](https://github.com/asiwach08) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/facebook.png">](https://www.facebook.com/asim.siwach) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png">](https://www.instagram.com/aseem_siwach/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](https://www.linkedin.com/in/asheemsiwach)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png">](https://github.com/asiwach08) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/facebook.png">](https://www.facebook.com/asim.siwach) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png">](https://www.instagram.com/aseem_siwach/)
 
 
