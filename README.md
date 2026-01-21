@@ -16,7 +16,7 @@ Design RAG systems over PDFs, emails & databases
 
 Automate document, finance & workflow intelligence
 
-Deploy end-to-end GenAI backends on cloud
+Deploy **end-to-end** GenAI backends on cloud
 
 ---
 
@@ -74,13 +74,13 @@ Deploy end-to-end GenAI backends on cloud
 
 ## 🤝 Open For
 
-* Freelance GenAI / LLM Projects
+* **Freelance GenAI / LLM Projects**
 
-* AI Product Development
+* **AI Product Development**
 
-* RAG & Enterprise Chatbot Consulting
+* **RAG & Enterprise Chatbot Consulting**
 
-* Startup MVPs (AI-first)
+* **Startup MVPs (AI-first)**
 
 ---
 
