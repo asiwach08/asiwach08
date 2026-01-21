@@ -72,6 +72,18 @@ Deploy end-to-end GenAI backends on cloud
 
 ---
 
+## 🤝 Open For
+
+* Freelance GenAI / LLM Projects
+
+* AI Product Development
+
+* RAG & Enterprise Chatbot Consulting
+
+* Startup MVPs (AI-first)
+
+---
+
 📫 **Let’s connect:**
 • Email: **[siwach.asim7@gmail.com](mailto:siwach.asim7@gmail.com)**
 
