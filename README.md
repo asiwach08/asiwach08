@@ -10,13 +10,10 @@ I specialize in turning complex data and unstructured documents into **productio
 ---
 ### 🚀 What I Do
 
-Build LLM-powered chatbots & copilots
-
-Design RAG systems over PDFs, emails & databases
-
-Automate document, finance & workflow intelligence
-
-Deploy **end-to-end** GenAI backends on cloud
+* Build LLM-powered chatbots & copilots
+* Design RAG systems over PDFs, emails & databases
+* Automate document, finance & workflow intelligence
+* Deploy **end-to-end** GenAI backends on cloud
 
 ---
 
@@ -75,11 +72,8 @@ Deploy **end-to-end** GenAI backends on cloud
 ## 🤝 Open For
 
 * **Freelance GenAI / LLM Projects**
-
 * **AI Product Development**
-
 * **RAG & Enterprise Chatbot Consulting**
-
 * **Startup MVPs (AI-first)**
 
 ---
